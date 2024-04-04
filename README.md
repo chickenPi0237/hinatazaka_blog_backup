@@ -5,7 +5,7 @@ This project will download and backup every member's blog. Because of using slee
 
 
 ## Dependecy
-python 3.6
+python 3.6  
 [beautifulsoup4 4.8.1](https://pypi.org/project/beautifulsoup4/, "pypi beautifulsoup4")
 
 - Note:
